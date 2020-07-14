@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular9-springboot-client"
+    }
+  },
+  "defaultProject": "angular9-springboot-client",
+  "cli": {
+    "analytics": "bc14feb4-61e9-4880-814d-ab3619d75076"
+  }
 }
